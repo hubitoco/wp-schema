@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Schema Generator Pro
- * Plugin URI: https://github.com/haamed/schema-generator
+ * Plugin URI: https://github.com/hubitoco/wp-schema
  * Description: Dynamically generates JSON-LD Schema markup for all WordPress content types using the full Schema.org vocabulary.
  * Version: 1.0.6
  * Author: Haamed
- * Author URI: https://github.com/haamed
+ * Author URI: https://github.com/hubitoco
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: schema-generator
